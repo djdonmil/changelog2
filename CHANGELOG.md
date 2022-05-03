@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/djdonmil/changelog2/compare/v1.4.1...v1.5.0) (2022-05-03)
+
+
+### Features
+
+* **feature-new new:** must feature ([f2fd456](https://github.com/djdonmil/changelog2/commit/f2fd456d190916702e801a733b92c2ee08d82b99))
+
+
+### Bug Fixes
+
+* **new feature:** ignore commit in tag ([77549fe](https://github.com/djdonmil/changelog2/commit/77549fe270db95be45a4dc03ec1502c7b69ef192))
+
 ### [1.4.1](https://github.com/djdonmil/changelog2/compare/v1.4.0...v1.4.1) (2022-05-03)
 
 ## [1.4.0](https://github.com/djdonmil/changelog2/compare/v1.3.0...v1.4.0) (2022-04-21)
