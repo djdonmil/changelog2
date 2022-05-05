@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.8.0](https://github.com/djdonmil/changelog2/compare/v1.7.1...v1.8.0) (2022-05-05)
+
+
+### Features
+
+* **new feat unwanted:** unwanted ([c6c893d](https://github.com/djdonmil/changelog2/commit/c6c893d6e3d6a9b1111d95c1c8530f3a6a66ba1f))
+
 ### [1.7.1](https://github.com/djdonmil/changelog2/compare/v1.7.0...v1.7.1) (2022-05-05)
 
 ## [1.7.0](https://github.com/djdonmil/changelog2/compare/v1.6.0...v1.7.0) (2022-05-05)
