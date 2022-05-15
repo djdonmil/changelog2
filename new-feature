@@ -1,11 +1,16 @@
 -this is first change and unwanted
 
--this is second change and unwanted commited with conventional commit
+-this is second change and unwanted commited without conventional commit
 
 -this is third change and unwanted commited without conventional commit
 
 -this is fourth change and unwanted commited with conventional commit
 
 -this is fifth change and wanted commited with conventional commit
+
+-this is sixth change and unwanted commited without conventional commit
+
+-this is seventh change and unwanted commited without conventional commit
+
 
 
