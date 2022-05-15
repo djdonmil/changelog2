@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/djdonmil/changelog2/compare/v1.8.1...v1.9.0) (2022-05-15)
+
+
+### Features
+
+* **new feature:** ninth change and wanted ([50dfef2](https://github.com/djdonmil/changelog2/commit/50dfef273717ccbc64cd600c84c203dff44c1837))
+
+
+### Bug Fixes
+
+* **new feat 5:** fifth change and wanted ([5889440](https://github.com/djdonmil/changelog2/commit/5889440e5387dc863ab90f193ebcee4445de3623))
+* **new feature:** 4th unwanted conventional commit ([f6a513c](https://github.com/djdonmil/changelog2/commit/f6a513c267aaf1b8ef5c0d1d891ccc2e3f34a55f))
+
 ### [1.8.1](https://github.com/djdonmil/changelog2/compare/v1.8.0...v1.8.1) (2022-05-05)
 
 ## [1.8.0](https://github.com/djdonmil/changelog2/compare/v1.7.1...v1.8.0) (2022-05-05)
