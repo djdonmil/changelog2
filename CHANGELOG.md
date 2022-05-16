@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.10.0](https://github.com/djdonmil/changelog2/compare/v1.9.0...v1.10.0) (2022-05-16)
+
+
+### Features
+
+* **new feature develop:** new feature develop ([855ebd2](https://github.com/djdonmil/changelog2/commit/855ebd298692e636196d9f8add8c7fcf905a02df))
+
 ## [1.9.0](https://github.com/djdonmil/changelog2/compare/v1.8.1...v1.9.0) (2022-05-15)
 
 
